@@ -1,9 +1,10 @@
+x = "agha Abol"
 
 x = "abol"
 print(x)
 
 y="Nima"
-print(y)
+print(y) 
 
 t = "amin"
 print(t)
@@ -11,3 +12,6 @@ print(t)
 f = "aga mehdi poor far jad"
 
 print(f)
+if t != y:
+    print("Nima is gay.")
+    
