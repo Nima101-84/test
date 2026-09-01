@@ -1,0 +1,2 @@
+x = "abol"
+print(x)
