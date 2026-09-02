@@ -17,5 +17,3 @@ if t != y:
 
 else:
     print("Nima is king.")
-    
-    
