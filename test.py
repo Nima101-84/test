@@ -13,8 +13,9 @@ f = "aga mehdi poor far jad"
 
 print(f)
 if t != y:
-    print("Nima is gay.")
+    print("Nima is lion.")
 
 else:
-    print("Nima is Lesbian.")
+    print("Nima is king.")
+    
     
