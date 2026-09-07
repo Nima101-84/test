@@ -17,3 +17,10 @@ if t != y:
 
 else:
     print("Nima is king.")
+
+
+for i in range ( 1 , 10) :
+
+    print('nima' *i)
+
+        
