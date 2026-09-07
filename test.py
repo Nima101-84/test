@@ -1,19 +1,3 @@
-x = "agha Abol"
+for i in range (1 , 10):
 
-x = "abol"
-print(x)
-
-y="Nima"
-print(y) 
-
-t = "amin"
-print(t)
-
-f = "aga mehdi poor far jad"
-
-print(f)
-if t != y:
-    print("Nima is lion.")
-
-else:
-    print("Nima is king.")
+    print("nima_" * i)    
