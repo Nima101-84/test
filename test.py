@@ -23,4 +23,8 @@ for i in range ( 1 , 10) :
 
     print('nima' *i)
 
+for i in range (1 , 3) :
+
+    print('abolos' * i)
+    
         
